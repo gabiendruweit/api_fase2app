@@ -55,24 +55,18 @@
   ],
 
   "photos": [
-    /* 150 PHOTOS — 5 per album — using picsum.photos IDs */
-    /* I'll generate all now */
-
-    /* ALBUM 1 */
     { "id": 1, "albumId": 1, "title": "Retrato Azul", "url": "https://picsum.photos/id/1010/800/600", "thumbnailUrl": "https://picsum.photos/id/1010/300/300" },
     { "id": 2, "albumId": 1, "title": "Olhar Urbano", "url": "https://picsum.photos/id/1025/800/600", "thumbnailUrl": "https://picsum.photos/id/1025/300/300" },
     { "id": 3, "albumId": 1, "title": "Cidade Moderna", "url": "https://picsum.photos/id/1030/800/600", "thumbnailUrl": "https://picsum.photos/id/1030/300/300" },
     { "id": 4, "albumId": 1, "title": "Perspectiva Urbana", "url": "https://picsum.photos/id/1040/800/600", "thumbnailUrl": "https://picsum.photos/id/1040/300/300" },
     { "id": 5, "albumId": 1, "title": "Caminho da Cidade", "url": "https://picsum.photos/id/1050/800/600", "thumbnailUrl": "https://picsum.photos/id/1050/300/300" },
 
-    /* ALBUM 2 */
     { "id": 6, "albumId": 2, "title": "Luzes da Noite", "url": "https://picsum.photos/id/1060/800/600", "thumbnailUrl": "https://picsum.photos/id/1060/300/300" },
     { "id": 7, "albumId": 2, "title": "Sombras Fortes", "url": "https://picsum.photos/id/1070/800/600", "thumbnailUrl": "https://picsum.photos/id/1070/300/300" },
     { "id": 8, "albumId": 2, "title": "Contraste Noturno", "url": "https://picsum.photos/id/1080/800/600", "thumbnailUrl": "https://picsum.photos/id/1080/300/300" },
     { "id": 9, "albumId": 2, "title": "Reflexos", "url": "https://picsum.photos/id/1090/800/600", "thumbnailUrl": "https://picsum.photos/id/1090/300/300" },
     { "id": 10, "albumId": 2, "title": "Cidade à Meia-noite", "url": "https://picsum.photos/id/1100/800/600", "thumbnailUrl": "https://picsum.photos/id/1100/300/300" },
 
-    /* ALBUM 3 */
     { "id": 11, "albumId": 3, "title": "Caminho Colorido", "url": "https://picsum.photos/id/1110/800/600", "thumbnailUrl": "https://picsum.photos/id/1110/300/300" },
     { "id": 12, "albumId": 3, "title": "Graffiti Vivo", "url": "https://picsum.photos/id/1120/800/600", "thumbnailUrl": "https://picsum.photos/id/1120/300/300" },
     { "id": 13, "albumId": 3, "title": "Pintura Urbana", "url": "https://picsum.photos/id/1130/800/600", "thumbnailUrl": "https://picsum.photos/id/1130/300/300" },
