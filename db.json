@@ -1,0 +1,43 @@
+{
+  "photos": [
+    {
+      "albumId": 1,
+      "id": 1,
+      "title": "Foto 1",
+      "url": "https://picsum.photos/id/1011/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/1011/150/150"
+    },
+    {
+      "albumId": 1,
+      "id": 2,
+      "title": "Foto 2",
+      "url": "https://picsum.photos/id/1025/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/1025/150/150"
+    },
+    {
+      "albumId": 2,
+      "id": 3,
+      "title": "Foto 3",
+      "url": "https://picsum.photos/id/1027/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/1027/150/150"
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Meu Álbum 1"
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "Meu Álbum 2"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Usuário Teste"
+    }
+  ]
+}
