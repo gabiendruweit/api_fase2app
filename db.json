@@ -2,27 +2,27 @@
   "users": [
     {
       "id": 1,
-      "name": "Ana Silva",
-      "username": "anasilva",
-      "email": "ana@example.com"
+      "name": "Laura Manedes",
+      "username": "lauramendes",
+      "email": "anamendes@example.com"
     },
     {
       "id": 2,
-      "name": "Bruna Oliveira",
-      "username": "brunaoli",
-      "email": "bruna@example.com"
+      "name": "Camila Duarte",
+      "username": "camiladu",
+      "email": "camiduarte@example.com"
     },
     {
       "id": 3,
-      "name": "Carla Mendes",
-      "username": "carlam",
-      "email": "carla@example.com"
+      "name": "Sofia Lima",
+      "username": "sofilima",
+      "email": "sofia@example.com"
     },
     {
       "id": 4,
-      "name": "Daniel Costa",
-      "username": "danicosta",
-      "email": "daniel@example.com"
+      "name": "Helena Rocha",
+      "username": "lenarocha",
+      "email": "helenarocha@example.com"
     }
   ],
 
