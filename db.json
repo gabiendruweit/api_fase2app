@@ -2,25 +2,121 @@
   "users": [
     {
       "id": 1,
-      "name": "Fulano",
-      "email": "fulano@email.com"
-    }
-  ],
-  "albums": [
+      "name": "Ana Silva",
+      "username": "anasilva",
+      "email": "ana@example.com"
+    },
     {
-      "id": 1,
-      "userId": 1,
-      "title": "Meu Álbum"
+      "id": 2,
+      "name": "Bruna Oliveira",
+      "username": "brunaoli",
+      "email": "bruna@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Carla Mendes",
+      "username": "carlam",
+      "email": "carla@example.com"
     }
   ],
+
+  "albums": [
+    { "id": 1, "userId": 1, "title": "Retratos Urbanos" },
+    { "id": 2, "userId": 1, "title": "Sombras e Luzes" },
+    { "id": 3, "userId": 2, "title": "Natureza Selvagem" },
+    { "id": 4, "userId": 2, "title": "Viagens pelo Mundo" },
+    { "id": 5, "userId": 3, "title": "Momentos do Dia a Dia" },
+    { "id": 6, "userId": 3, "title": "Abstratos Coloridos" }
+  ],
+
   "photos": [
     {
       "id": 1,
       "albumId": 1,
-      "title": "Foto 1",
-      "thumbnailUrl": "https://via.placeholder.com/150",
-      "url": "https://via.placeholder.com/600"
+      "title": "Cidade Azul",
+      "url": "https://picsum.photos/id/1010/800/600",
+      "thumbnailUrl": "https://picsum.photos/id/1010/300/300"
+    },
+    {
+      "id": 2,
+      "albumId": 1,
+      "title": "Olhar Urbano",
+      "url": "https://picsum.photos/id/1025/800/600",
+      "thumbnailUrl": "https://picsum.photos/id/1025/300/300"
+    },
+    {
+      "id": 3,
+      "albumId": 2,
+      "title": "Luzes da Noite",
+      "url": "https://picsum.photos/id/1035/800/600",
+      "thumbnailUrl": "https://picsum.photos/id/1035/300/300"
+    },
+    {
+      "id": 4,
+      "albumId": 2,
+      "title": "Contraste Forte",
+      "url": "https://picsum.photos/id/1043/800/600",
+      "thumbnailUrl": "https://picsum.photos/id/1043/300/300"
+    },
+
+    {
+      "id": 5,
+      "albumId": 3,
+      "title": "Floresta Densa",
+      "url": "https://picsum.photos/id/1056/800/600",
+      "thumbnailUrl": "https://picsum.photos/id/1056/300/300"
+    },
+    {
+      "id": 6,
+      "albumId": 3,
+      "title": "Montanhas Selvagens",
+      "url": "https://picsum.photos/id/1066/800/600",
+      "thumbnailUrl": "https://picsum.photos/id/1066/300/300"
+    },
+
+    {
+      "id": 7,
+      "albumId": 4,
+      "title": "Ruínas Antigas",
+      "url": "https://picsum.photos/id/1074/800/600",
+      "thumbnailUrl": "https://picsum.photos/id/1074/300/300"
+    },
+    {
+      "id": 8,
+      "albumId": 4,
+      "title": "Mar Cristalino",
+      "url": "https://picsum.photos/id/1084/800/600",
+      "thumbnailUrl": "https://picsum.photos/id/1084/300/300"
+    },
+
+    {
+      "id": 9,
+      "albumId": 5,
+      "title": "Café da Manhã",
+      "url": "https://picsum.photos/id/109/800/600",
+      "thumbnailUrl": "https://picsum.photos/id/109/300/300"
+    },
+    {
+      "id": 10,
+      "albumId": 5,
+      "title": "Rua Aconchegante",
+      "url": "https://picsum.photos/id/110/800/600",
+      "thumbnailUrl": "https://picsum.photos/id/110/300/300"
+    },
+
+    {
+      "id": 11,
+      "albumId": 6,
+      "title": "Formas e Cores",
+      "url": "https://picsum.photos/id/112/800/600",
+      "thumbnailUrl": "https://picsum.photos/id/112/300/300"
+    },
+    {
+      "id": 12,
+      "albumId": 6,
+      "title": "Explosão Criativa",
+      "url": "https://picsum.photos/id/113/800/600",
+      "thumbnailUrl": "https://picsum.photos/id/113/300/300"
     }
   ]
 }
-
