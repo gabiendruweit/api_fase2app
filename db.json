@@ -20,48 +20,43 @@
     },
     {
       "id": 4,
-      "name": "Daniel Rocha",
-      "username": "danielr",
+      "name": "Daniel Costa",
+      "username": "danicosta",
       "email": "daniel@example.com"
-    },
-    {
-      "id": 5,
-      "name": "Eduarda Lima",
-      "username": "edulima",
-      "email": "eduarda@example.com"
-    },
-    {
-      "id": 6,
-      "name": "Felipe Ramos",
-      "username": "feliper",
-      "email": "felipe@example.com"
     }
   ],
 
   "albums": [
-    { "id": 1, "userId": 1, "title": "Retratos Urbanos" },
-    { "id": 2, "userId": 1, "title": "Sombras e Luzes" },
-    { "id": 3, "userId": 1, "title": "Caminhos da Cidade" },
-
-    { "id": 4, "userId": 2, "title": "Natureza Selvagem" },
-    { "id": 5, "userId": 2, "title": "Viagens pelo Mundo" },
-    { "id": 6, "userId": 2, "title": "Céus e Montanhas" },
-
-    { "id": 7, "userId": 3, "title": "Momentos do Dia" },
-    { "id": 8, "userId": 3, "title": "Abstratos Coloridos" },
-    { "id": 9, "userId": 3, "title": "Paisagens Urbanas" },
-
-    { "id": 10, "userId": 4, "title": "Arquitetura Moderna" },
-    { "id": 11, "userId": 4, "title": "Cidades Antigas" },
-    { "id": 12, "userId": 4, "title": "Linhas e Formas" },
-
-    { "id": 13, "userId": 5, "title": "Café e Conforto" },
-    { "id": 14, "userId": 5, "title": "Detalhes do Cotidiano" },
-    { "id": 15, "userId": 5, "title": "Estilo de Vida" },
-
-    { "id": 16, "userId": 6, "title": "Animais Selvagens" },
-    { "id": 17, "userId": 6, "title": "Parques Abertos" },
-    { "id": 18, "userId": 6, "title": "Cenas da Cidade" }
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "Retratos Urbanos"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "title": "Sombras e Luzes"
+    },
+    {
+      "id": 3,
+      "userId": 2,
+      "title": "Natureza Selvagem"
+    },
+    {
+      "id": 4,
+      "userId": 2,
+      "title": "Viagens pelo Mundo"
+    },
+    {
+      "id": 5,
+      "userId": 3,
+      "title": "Momentos do Dia a Dia"
+    },
+    {
+      "id": 6,
+      "userId": 3,
+      "title": "Abstratos Coloridos"
+    }
   ],
 
   "photos": [
@@ -79,7 +74,6 @@
       "url": "https://picsum.photos/id/1025/800/600",
       "thumbnailUrl": "https://picsum.photos/id/1025/300/300"
     },
-
     {
       "id": 3,
       "albumId": 2,
@@ -94,245 +88,54 @@
       "url": "https://picsum.photos/id/1043/800/600",
       "thumbnailUrl": "https://picsum.photos/id/1043/300/300"
     },
-
     {
       "id": 5,
       "albumId": 3,
-      "title": "Caminho Moderno",
-      "url": "https://picsum.photos/id/1049/800/600",
-      "thumbnailUrl": "https://picsum.photos/id/1049/300/300"
-    },
-    {
-      "id": 6,
-      "albumId": 3,
-      "title": "Ruas Vazias",
-      "url": "https://picsum.photos/id/1052/800/600",
-      "thumbnailUrl": "https://picsum.photos/id/1052/300/300"
-    },
-
-    {
-      "id": 7,
-      "albumId": 4,
       "title": "Floresta Densa",
       "url": "https://picsum.photos/id/1056/800/600",
       "thumbnailUrl": "https://picsum.photos/id/1056/300/300"
     },
     {
-      "id": 8,
-      "albumId": 4,
+      "id": 6,
+      "albumId": 3,
       "title": "Montanhas Selvagens",
       "url": "https://picsum.photos/id/1066/800/600",
       "thumbnailUrl": "https://picsum.photos/id/1066/300/300"
     },
-
     {
-      "id": 9,
-      "albumId": 5,
+      "id": 7,
+      "albumId": 4,
       "title": "Ruínas Antigas",
       "url": "https://picsum.photos/id/1074/800/600",
       "thumbnailUrl": "https://picsum.photos/id/1074/300/300"
     },
     {
-      "id": 10,
-      "albumId": 5,
+      "id": 8,
+      "albumId": 4,
       "title": "Mar Cristalino",
-      "url": "https://picsum.photos/id/1084/800/600",
+      "url": "httpsum.photos/id/1084/800/600",
       "thumbnailUrl": "https://picsum.photos/id/1084/300/300"
     },
-
     {
-      "id": 11,
-      "albumId": 6,
+      "id": 9,
+      "albumId": 5,
       "title": "Café da Manhã",
       "url": "https://picsum.photos/id/109/800/600",
       "thumbnailUrl": "https://picsum.photos/id/109/300/300"
     },
     {
-      "id": 12,
-      "albumId": 6,
+      "id": 10,
+      "albumId": 5,
       "title": "Rua Aconchegante",
       "url": "https://picsum.photos/id/110/800/600",
       "thumbnailUrl": "https://picsum.photos/id/110/300/300"
     },
-
     {
-      "id": 13,
-      "albumId": 7,
-      "title": "Caminho Floral",
-      "url": "https://picsum.photos/id/120/800/600",
-      "thumbnailUrl": "https://picsum.photos/id/120/300/300"
-    },
-    {
-      "id": 14,
-      "albumId": 7,
-      "title": "Rosas Vermelhas",
-      "url": "https://picsum.photos/id/121/800/600",
-      "thumbnailUrl": "https://picsum.photos/id/121/300/300"
-    },
-
-    {
-      "id": 15,
-      "albumId": 8,
-      "title": "Arte Abstrata",
-      "url": "https://picsum.photos/id/130/800/600",
-      "thumbnailUrl": "https://picsum.photos/id/130/300/300"
-    },
-    {
-      "id": 16,
-      "albumId": 8,
-      "title": "Cores Vibrantes",
-      "url": "https://picsum.photos/id/131/800/600",
-      "thumbnailUrl": "https://picsum.photos/id/131/300/300"
-    },
-
-    {
-      "id": 17,
-      "albumId": 9,
-      "title": "Paisagem Urbana",
-      "url": "https://picsum.photos/id/140/800/600",
-      "thumbnailUrl": "https://picsum.photos/id/140/300/300"
-    },
-    {
-      "id": 18,
-      "albumId": 9,
-      "title": "Luzes Urbanas",
-      "url": "https://picsum.photos/id/141/800/600",
-      "thumbnailUrl": "https://picsum.photos/id/141/300/300"
-    },
-
-    {
-      "id": 19,
-      "albumId": 10,
-      "title": "Prédios Modernos",
-      "url": "https://picsum.photos/id/150/800/600",
-      "thumbnailUrl": "httpsum.photos/id/150/300/300"
-    },
-    {
-      "id": 20,
-      "albumId": 10,
-      "title": "Linhas Futuristas",
-      "url": "https://picsum.photos/id/151/800/600",
-      "thumbnailUrl": "https://picsum.photos/id/151/300/300"
-    },
-
-    {
-      "id": 21,
-      "albumId": 11,
-      "title": "Castelo Antigo",
-      "url": "https://picsum.photos/id/160/800/600",
-      "thumbnailUrl": "https://picsum.photos/id/160/300/300"
-    },
-    {
-      "id": 22,
-      "albumId": 11,
-      "title": "Cidade Antiga",
-      "url": "https://picsum.photos/id/161/800/600",
-      "thumbnailUrl": "https://picsum.photos/id/161/300/300"
-    },
-
-    {
-      "id": 23,
-      "albumId": 12,
-      "title": "Linhas Abstratas",
-      "url": "https://picsum.photos/id/170/800/600",
-      "thumbnailUrl": "https://picsum.photos/id/170/300/300"
-    },
-    {
-      "id": 24,
-      "albumId": 12,
-      "title": "Formas Modernas",
-      "url": "https://picsum.photos/id/171/800/600",
-      "thumbnailUrl": "https://picsum.photos/id/171/300/300"
-    },
-
-    {
-      "id": 25,
-      "albumId": 13,
-      "title": "Café Preto",
-      "url": "https://picsum.photos/id/180/800/600",
-      "thumbnailUrl": "https://picsum.photos/id/180/300/300"
-    },
-    {
-      "id": 26,
-      "albumId": 13,
-      "title": "Mesa Aconchegante",
-      "url": "https://picsum.photos/id/181/800/600",
-      "thumbnailUrl": "https://picsum.photos/id/181/300/300"
-    },
-
-    {
-      "id": 27,
-      "albumId": 14,
-      "title": "Detalhes do Lar",
-      "url": "https://picsum.photos/id/190/800/600",
-      "thumbnailUrl": "https://picsum.photos/id/190/300/300"
-    },
-    {
-      "id": 28,
-      "albumId": 14,
-      "title": "Vida Cotidiana",
-      "url": "https://picsum.photos/id/191/800/600",
-      "thumbnailUrl": "https://picsum.photos/id/191/300/300"
-    },
-
-    {
-      "id": 29,
-      "albumId": 15,
-      "title": "Lifestyle Criativo",
-      "url": "https://picsum.photos/id/200/800/600",
-      "thumbnailUrl": "https://picsum.photos/id/200/300/300"
-    },
-    {
-      "id": 30,
-      "albumId": 15,
-      "title": "Momentos Leves",
-      "url": "https://picsum.photos/id/201/800/600",
-      "thumbnailUrl": "https://picsum.photos/id/201/300/300"
-    },
-
-    {
-      "id": 31,
-      "albumId": 16,
-      "title": "Leão Selvagem",
-      "url": "https://picsum.photos/id/210/800/600",
-      "thumbnailUrl": "https://picsum.photos/id/210/300/300"
-    },
-    {
-      "id": 32,
-      "albumId": 16,
-      "title": "Águia em Voo",
-      "url": "https://picsum.photos/id/211/800/600",
-      "thumbnailUrl": "https://picsum.photos/id/211/300/300"
-    },
-
-    {
-      "id": 33,
-      "albumId": 17,
-      "title": "Parque Florido",
-      "url": "https://picsum.photos/id/220/800/600",
-      "thumbnailUrl": "https://picsum.photos/id/220/300/300"
-    },
-    {
-      "id": 34,
-      "albumId": 17,
-      "title": "Trilhas Abertas",
-      "url": "https://picsum.photos/id/221/800/600",
-      "thumbnailUrl": "https://picsum.photos/id/221/300/300"
-    },
-
-    {
-      "id": 35,
-      "albumId": 18,
-      "title": "Cidade Cinza",
-      "url": "https://picsum.photos/id/230/800/600",
-      "thumbnailUrl": "https://picsum.photos/id/230/300/300"
-    },
-    {
-      "id": 36,
-      "albumId": 18,
-      "title": "Noite Urbana",
-      "url": "https://picsum.photos/id/231/800/600",
-      "thumbnailUrl": "https://picsum.photos/id/231/300/300"
+      "id": 11,
+      "albumId": 6,
+      "title": "Formas e Cores",
+      "url": "https://picsum.photos/id/112/800/600",
+      "thumbnailUrl": "https://picsum.photos/id/112/300/300"
     }
   ]
 }
